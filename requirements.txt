@@ -42,7 +42,7 @@ botocore @ file:///C:/b/abs_01gwdn34ju/croot/botocore_1682528022942/work
 Bottleneck @ file:///C:/ci_311/bottleneck_1676500016583/work
 brotlipy==0.7.0
 cachetools==5.3.2
-certifi @ file:///C:/b/abs_91u83siphd/croot/certifi_1700501720658/work/certifi
+certifi==2023.11.17
 cffi @ file:///C:/ci_311/cffi_1676423759166/work
 chardet @ file:///C:/ci_311/chardet_1676436134885/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
